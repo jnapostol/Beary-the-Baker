@@ -1,0 +1,5 @@
+[NAME=Beary][SPEAKERSPRITE=] Oooh boy is it chilly today... It's not usually this cold! 
+[NAME=Beary][SPEAKERSPRITE=] What I do need again?
+[NAME=Beary][SPEAKERSPRITE=] Oh right!
+[NAME=Beary][SPEAKERSPRITE=] I need eggs, milk, and a pumpkin from the farm.
+[NAME=Beary][SPEAKERSPRITE=] Then I need to stop by the SuperMart to get spices, flour, and sugar!

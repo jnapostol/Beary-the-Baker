@@ -1,0 +1,2 @@
+[NAME=Beary][SPEAKERSPRITE=] I can't go here yet, I need the freshest ingredients from the farm!
+[NAME=Beary][SPEAKERSPRITE=] Brrr... it's chilly!

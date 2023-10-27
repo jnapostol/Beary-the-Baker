@@ -1,0 +1,3 @@
+[NAME=Beary][SPEAKERSPRITE=] I should head to the farm...
+[NAME=Beary][SPEAKERSPRITE=] Oddly enough, it feels really cold here!
+
